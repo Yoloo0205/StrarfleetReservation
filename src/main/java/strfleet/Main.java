@@ -8,9 +8,6 @@ import strfleet.systeme.SystemeReservation;
 
 import java.util.*;
 
-import modele.personne.Civil;
-import modele.personne.Officier;
-import modele.personne.Personne;
 
 import java.text.SimpleDateFormat;
 

@@ -6,8 +6,6 @@ import strfleet.modele.vaisseau.*;
 
 import java.util.*;
 
-import modele.personne.Personne;
-
 import java.io.*;
 /**
  * Classe cœur du système gérant la logique métier de l'application.
